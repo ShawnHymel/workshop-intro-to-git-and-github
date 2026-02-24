@@ -4,6 +4,32 @@ Welcome to the Intro to Git and GitHub workshop! Read through this guide and per
 
 > **Note**: The two popular methods for working with Git are the command line interface (CLI) tools and the graphical user interface (GUI). The GUI is easier to understand and use, especially for newcomers and simple projects. The CLI tool has a steeper learning curve but is generally more powerful. I'll put both in this guide, and you can choose whichever one you like better.
 
+## Table of Contents
+
+- [Overview](#overview)
+  - [What is Version Control?](#what-is-version-control)
+  - [What is Git?](#what-is-git)
+  - [What is GitHub?](#what-is-github)
+  - [Terminology](#terminology)
+- [Hands-on Exercise 1: Basic Flow](#hands-on-exercise-1-basic-flow)
+  - [Create a GitHub Account](#create-a-github-account)
+  - [Create Repository](#create-repository)
+  - [CLI vs. GUI](#cli-vs-gui)
+  - [Option 1: Command Line Tools (CLI)](#option-1-command-line-tools-cli)
+  - [Option 2: GitHub Desktop (GUI)](#option-2-github-desktop-gui)
+- [Challenge 1: Create a README](#challenge-1-create-a-readme)
+- [Challenge 2: Tag a Commit](#challenge-2-tag-a-commit)
+- [Challenge 3: Share Your Project](#challenge-3-share-your-project)
+- [Hands-on Exercise 2: Revert a Change](#hands-on-exercise-2-revert-a-change)
+  - [Option 1: Command Line Tools (CLI)](#option-1-command-line-tools-cli-1)
+  - [Option 2: GitHub Desktop (GUI)](#option-2-github-desktop-gui-1)
+- [Hands-on Exercise 3: Branching and Merging](#hands-on-exercise-3-branching-and-merging)
+  - [Option 1: Command Line Tools (CLI)](#option-1-command-line-tools-cli-2)
+  - [Option 2: GitHub Desktop (GUI)](#option-2-github-desktop-gui-2)
+- [Challenge 4: Pull Request](#challenge-4-pull-request)
+- [Going Further](#going-further)
+- [License](#license)
+
 ## Overview
 
 ### What is Version Control?
@@ -550,7 +576,7 @@ Click **Delete**.
 
 Feel free to navigate to your GitHub repository (refresh if needed) and verify that the branch is no longer there.
 
-### Challenge 4: Pull Request
+## Challenge 4: Pull Request
 
 The Pull Request (PR) is a key feature of Git, but it's also one of the most confusing. With a PR, you are asking to make changes to *someone else's* repository, and they can either accept or reject your request. This opens up a ton of possibilities for collaboration while still allowing the repo's maintainer(s) to verify any changes before they happen.
 
