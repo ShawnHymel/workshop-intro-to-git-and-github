@@ -580,7 +580,7 @@ Feel free to navigate to your GitHub repository (refresh if needed) and verify t
 
 The Pull Request (PR) is a key feature of Git, but it's also one of the most confusing. With a PR, you are asking to make changes to *someone else's* repository, and they can either accept or reject your request. This opens up a ton of possibilities for collaboration while still allowing the repo's maintainer(s) to verify any changes before they happen.
 
-I'm not going to walk you through this process. You'll need to find one or more partners and figure out the exact steps required to make a PR happen (as you have the basic building conceptual building blocks from the previous exercises). However, I'll get you started and offer the basic steps.
+I'll give you an overview of the steps you need to perform but not the exact commands or buttons. You'll need to find one or more partners and figure out the exact steps required to make a PR happen (as you have the basic building conceptual building blocks from the previous exercises). However, I'll get you started and offer the basic steps.
 
 For the purposes of this description:
 
